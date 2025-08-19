@@ -29,6 +29,7 @@ No external libraries required. Just clone this repository:
 git clone https://github.com/your-username/python-stack.git
 
 ```
+```
 #Then, import the Stack class in your Python code:
 
 from stack import Stack, StackIsEmpty
@@ -63,8 +64,7 @@ print(10 in stack)  # Output: True
 # Clear the stack
 stack.clear()
 print(stack.is_empty())  # Output: True
-
-    
+```
 License
 
 This project is open-source and available under the MIT License.
