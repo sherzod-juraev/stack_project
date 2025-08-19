@@ -34,7 +34,7 @@ git clone https://github.com/your-username/python-stack.git
 from stack import Stack, StackIsEmpty
 
 ## Usage
-```
+```python
 # Create a new stack
 stack = Stack()
 
