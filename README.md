@@ -28,7 +28,8 @@ No external libraries required. Just clone this repository:
 ```bash
 git clone https://github.com/your-username/python-stack.git
 
-Then, import the Stack class in your Python code:
+```
+#Then, import the Stack class in your Python code:
 
 from stack import Stack, StackIsEmpty
 
