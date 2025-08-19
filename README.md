@@ -26,6 +26,10 @@ This project demonstrates object-oriented programming, exception handling, and P
 
 No external libraries required. Just clone this repository:
 
+Then, import the Stack class in your Python code:
+
+from stack import Stack, StackIsEmpty
+
 ## Usage
 # Create a new stack
 stack = Stack()
