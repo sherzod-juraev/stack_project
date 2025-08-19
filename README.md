@@ -26,10 +26,6 @@ This project demonstrates object-oriented programming, exception handling, and P
 
 No external libraries required. Just clone this repository:
 
-License
-
-This project is open-source and available under the MIT License.
-
 Usage
 #Then, import the Stack class in your Python code:
 from stack import Stack, StackIsEmpty
