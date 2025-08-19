@@ -27,8 +27,6 @@ This project demonstrates object-oriented programming, exception handling, and P
 No external libraries required. Just clone this repository:
 
 ## Usage
-#Then, import the Stack class in your Python code:
-from stack import Stack, StackIsEmpty
 # Create a new stack
 stack = Stack()
 
@@ -58,14 +56,7 @@ print(10 in stack)  # Output: True
 # Clear the stack
 stack.clear()
 print(stack.is_empty())  # Output: True
-#Exception Handling
 
-#The stack raises a custom exception StackIsEmpty when attempting to pop() or peek() from an empty stack:
-
-try:
-    stack.pop()
-except StackIsEmpty as e:
-    print(e)  # Output: Stack is empty
     
 License
 
