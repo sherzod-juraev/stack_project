@@ -26,7 +26,7 @@ This project demonstrates object-oriented programming, exception handling, and P
 
 No external libraries required. Just clone this repository:
 
-Usage
+## Usage
 #Then, import the Stack class in your Python code:
 from stack import Stack, StackIsEmpty
 # Create a new stack
@@ -66,5 +66,7 @@ try:
     stack.pop()
 except StackIsEmpty as e:
     print(e)  # Output: Stack is empty
-```bash
-git clone https://github.com/your-username/python-stack.git
+    
+License
+
+This project is open-source and available under the MIT License.
