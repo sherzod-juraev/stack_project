@@ -65,6 +65,3 @@ print(10 in stack)  # Output: True
 stack.clear()
 print(stack.is_empty())  # Output: True
 ```
-License
-
-This project is open-source and available under the MIT License.
